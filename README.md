@@ -16,7 +16,7 @@ This is a simple backend API developed for the HNG12 Stage 0 Task. The API retur
 
 ### Endpoint
 - **Method**: GET
-- **URL**: https://hng12-stage0-public-api-mo6f.onrender.com
+- **URL**: 'https://hng12-stage0-public-api-mo6f.onrender.com'
 
 ### Response Format: JSON
 ```json
@@ -55,7 +55,7 @@ This is a simple backend API developed for the HNG12 Stage 0 Task. The API retur
 ## Deployment
 
 The API is deployed and publicly accessible at:
-- https://hng12-stage0-public-api-mo6f.onrender.com
+- 'https://hng12-stage0-public-api-mo6f.onrender.com'
 
 ---
 
@@ -72,12 +72,6 @@ header('Content-Type: application/json');
 ## Useful Links
 
 - PHP Developers:  https://hng.tech/hire/php-developers
-- Python Developers: https://hng.tech/hire/python-developers
-- Node.js Developers: https://hng.tech/hire/nodejs-developers
-- Java Developers: https://hng.tech/hire/java-developers
-- Golang Developers: https://hng.tech/hire/golang-developers
-- C# Developers: https://hng.tech/hire/csharp-developers
-
 ---
 
 ## Author
