@@ -1,6 +1,8 @@
 <?php
 header("Content-Type: application/json");
 header("Access-Control-Allow-Origin: *");
+http_response_code(200); // Ensures 200 OK response
+
 
 // Define the response array
 $response = [
