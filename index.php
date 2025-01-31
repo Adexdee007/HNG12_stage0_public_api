@@ -13,7 +13,7 @@ function getCurrentDateTime() {
 
 // Defining the response
 $response = [
-    "email" => "dammy1for2020@gmail.com",  // Replace with your actual email
+    "email" => "dammyfor2020@gmail.com",  // Replace with your actual email
     "current_datetime" => gmdate("c"),   // Generates ISO 8601 format in UTC
     "github_url" => "https://github.com/Adexdee007/HNG12_stage0_public_api"
 ];
