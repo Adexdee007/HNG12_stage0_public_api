@@ -1,5 +1,5 @@
 <?php
-<?php
+
 // public_api.php
 
 // headers that allows CORS and return JSON
